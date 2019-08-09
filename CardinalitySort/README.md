@@ -12,12 +12,12 @@ Example:
 
 - Explanation:
 The integers in their binary representation are:
-- number  / bit
-- 31    / 11111
-- 15    / . 1111
-- 7  / .  0111
-- 3  / .  0011
-- 2  / .  0010
+- number&nbsp; &nbsp; bit
+- 31&nbsp; &nbsp; &nbsp; &nbsp; 11111
+- 15&nbsp; &nbsp; &nbsp; &nbsp; 1111
+- 7&nbsp; &nbsp; &nbsp; &nbsp; 0111
+- 3&nbsp; &nbsp; &nbsp; &nbsp; 0011
+- 2&nbsp; &nbsp; &nbsp; &nbsp; 0010
 
 ```
 Thanks for stopping by and stay classy Seattle.
