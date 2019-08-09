@@ -16,6 +16,12 @@ Data-Structures and Algorithms codede only in PHP
 
 * Challenges using Visual Studio Code
 
+## *********** Challenges **************************
+1. [Challenge: Is String a Substring of another String](String/Substring)
+
+2. [Challenge: Sort an array according to count of set bits](CardinalitySort)
+
+
 ```
 Thanks for stopping by and stay classy Seattle.
 ```
