@@ -7,15 +7,17 @@ Coded in PHP
 - Return those numbers in the sorted cardinality way.
 
 Example:
-Input: $arr[] = {5, 31, 15, 7, 3, 2 };
-Output: 2 3 7 15 31
-Explanation:
+- Input: $arr[] = {5, 31, 15, 7, 3, 2 };
+- Output: 2 3 7 15 31
+
+- Explanation:
 The integers in their binary representation are:
-31 - 11111
-15 -1111
-7  -0111
-3  -0011
-2  -0010
+- number  / bit
+- 31    / 11111
+- 15    / . 1111
+- 7  / .  0111
+- 3  / .  0011
+- 2  / .  0010
 
 ```
 Thanks for stopping by and stay classy Seattle.
