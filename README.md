@@ -21,6 +21,8 @@ Data-Structures and Algorithms codede only in PHP
 
 2. [Challenge: Sort an array according to count of set bits](CardinalitySort)
 
+3. [Challenge: Find the minimum number of coins needed](MinCoins)
+
 
 ```
 Thanks for stopping by and stay classy Seattle.
